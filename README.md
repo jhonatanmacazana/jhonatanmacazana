@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 - 🌍 Based in Lima, Peru.
 - 💼 Interested as a sysadmin managing Linux systems.
 - 🎯 Looking for work as a web developer or sysadmin. [Email me!](mailto:jhonatan.macazana1@gmail.com)
-- 🛠 Code in JavaScript, C, Go and shell scripting.
+- 🛠 Code in JavaScript, C, Python, Go and shell scripting.
 - 📫 Find me on: [linkedin](https://www.linkedin.com/in/jhonatanmacazana/) · [email](mailto:jhonatan.macazana1@gmail.com)
 
 
 <a href="https://github.com/jhonatanmacazana">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jhonatanmacazana&show_icons=true&include_all_commits=true&custom_title=GitHub+Stats&theme=vue">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jhonatanmacazana&show_icons=true&include_all_commits=true&count_private=true&custom_title=GitHub+Stats&theme=vue">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatanmacazana&layout=compact&theme=vue">
 </a>
