@@ -54,7 +54,7 @@ My name is Jhonatan Macazana and I'm a software developer/electrical engineering
 
 <!-- links to your social media accounts -->
 
-[1]: https://jmacazana.tk
+[1]: https://jmacazana.com
 [2]: https://github.com/jhonatanmacazana
 [3]: https://www.linkedin.com/in/jhonatanmacazana
 [4]: mailto:jhonatan.macazana1@gmail.com
