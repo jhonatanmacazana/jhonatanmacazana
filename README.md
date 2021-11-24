@@ -45,7 +45,7 @@ My name is Jhonatan Macazana and I'm a software developer/electrical engineering
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/jhonatanmacazana">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatanmacazana&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="jmacazana's Most Used Languages"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatanmacazana&hide=java,jupyter%20notebook&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="jmacazana's Most Used Languages"/>
 </a>
 
 <a href="https://github.com/jhonatanmacazana">
