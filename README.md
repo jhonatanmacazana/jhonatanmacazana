@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Jhonatan Macazana and I'm a software developer/electrical engineering student/sysadmin.
+My name is Jhonatan Macazana and I'm a software developer/electrical engineering bachelor/devops engineer.
 
 👋 **Here's a little bit about me:**
 
-- ✨ Sysadmin, electrical engineering student and web developer.
+- ✨ DevOps engineer, electrical engineering bachelor, and Fullstack developer.
 - 🌍 Based in Lima, Peru.
-- 💼 Interested as a sysadmin managing Linux systems.
-- 🎯 Looking for work as a web developer or sysadmin. [Email me!][4]
+- 💼 Interested as a devops engineer managing container environments.
+- 🎯 Looking for work as a devops engineer or React frontend developer. [Email me!][4]
 - 📫 Find me on: [linkedin][3] · [email][4]
 - 📫 Checkout my work on my [portfolio][1]
 
